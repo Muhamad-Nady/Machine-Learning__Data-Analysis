@@ -1,0 +1,6 @@
+Spare Parts Consumption for Knitting Machine
+1 - Compute total spare-parts consumption over time interval
+2 - compute spare-parts daily consumption per machine
+3 - Visulaize the spare-parts consumption over time using Python
+4 - getting out insights like std of the consumed money in the parts
+5 - what's the daily mean of consumed money to maintain the machines
