@@ -1,0 +1,5 @@
+•	The Notebook is used to predict median_house_value in California state,
+•	I have used LinearRegression algorithm to impute the null values in total_bedrooms column
+•	Used algorithm is RandomForestRegressor algorithm to predict the target value median_house_value  Output Rmse = 44550.4542
+•	Used algorithm is RandomForest algorithm to predict the target value median_house_value
+•	Predict the model using KNeighborsRegressor to predict the target value median_house_value  Output Rmse = 49216.184
