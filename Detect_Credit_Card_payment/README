@@ -1,0 +1,4 @@
+- in that project will will predict a payment for credit card bills of bank customer, 
+- applied descriptive statistic over data to define with column is important, and preparing your data for training the model
+- training multiple model to get the best model after evaluation
+- choose best result for the trained model and use the grid search for hyperparameters tuning
